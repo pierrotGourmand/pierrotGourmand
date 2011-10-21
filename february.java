@@ -1,4 +1,7 @@
 monday
+--morning
+--night
+--dodo
 tuesday
 wednesday
 thursday
