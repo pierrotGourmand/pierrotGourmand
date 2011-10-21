@@ -6,6 +6,8 @@ wednesday
 --morning
 --evening
 thursday
+--evening
+--morning
 friday
 saturday
 sunday
