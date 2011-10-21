@@ -7,6 +7,9 @@ tuesday
 --night
 --dodo
 wednesday
+--morning
+--night
+--dodo
 thursday
 friday
 saturday
