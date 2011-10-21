@@ -7,10 +7,12 @@ tuesday
 --night
 --dodo
 wednesday
-thursday
-friday
 --morning
 --night
 --dodo
+thursday
+--morning
+--night
+--dodo
+friday
 saturday
-sunday
