@@ -11,5 +11,8 @@ wednesday
 --night
 --dodo
 thursday
+--morning
+--night
+--dodo
 friday
 saturday
