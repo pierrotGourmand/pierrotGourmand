@@ -1,5 +1,7 @@
 monday
 tuesday
+--morning
+--evening
 wednesday
 thursday
 friday
