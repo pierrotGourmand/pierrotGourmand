@@ -1,4 +1,4 @@
-monday morning
+monday
 monday night
 tuesday
 wednesday
