@@ -11,9 +11,11 @@ wednesday
 --night
 --dodo
 thursday
+--morning
+--night
+--dodo
 friday
 --morning
 --night
 --dodo
 saturday
-sunday
