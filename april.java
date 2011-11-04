@@ -5,4 +5,3 @@ thursday
 friday
 saturday
 sunday
-lalal
