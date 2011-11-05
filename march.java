@@ -11,3 +11,4 @@ thursday
 friday
 saturday
 sunday
+end of week
