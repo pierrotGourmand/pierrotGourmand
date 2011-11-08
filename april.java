@@ -5,4 +5,4 @@ thursday
 friday
 saturday
 sunday
-eighth day
+8th day
