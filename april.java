@@ -16,7 +16,6 @@ sunday
 -end
 10th day
 -start
--blobla
 -blibli
 -end
 11th day
