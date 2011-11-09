@@ -5,9 +5,9 @@ thursday
 friday
 saturday
 sunday
-eighth day
-ninth day
-tenth day
+8th day
+9th day
+10th day
 11th day
 12th day
 13th day
