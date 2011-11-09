@@ -7,7 +7,7 @@ saturday
 sunday
 eighth day
 ninth day
-10th day
+tenth day
 11th day
 12th day
 13th day
