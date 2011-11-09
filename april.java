@@ -17,7 +17,6 @@ sunday
 10th day
 -start
 -blobla
--blibli
 -bobo
 -end
 11th day
