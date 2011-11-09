@@ -19,6 +19,7 @@ sunday
 -start
 -blobla
 -blibli
+-bobo
 -end
 11th day
 12th day
