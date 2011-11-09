@@ -13,7 +13,6 @@ sunday
 9th day
 -start
 -blabla
--baba
 -end
 10th day
 -start
