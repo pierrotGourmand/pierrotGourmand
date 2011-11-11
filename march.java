@@ -9,6 +9,7 @@ thursday
 --evening
 --morning
 friday
+--morning
 saturday
 sunday
 END OF WEEK
